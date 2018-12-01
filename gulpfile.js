@@ -1,15 +1,15 @@
-var gulp = require('gulp');
-var sass = require('gulp-sass');
-var browserSync = require('browser-sync').create();
-var header = require('gulp-header');
-var cleanCSS = require('gulp-clean-css');
-var rename = require("gulp-rename");
-var uglify = require('gulp-uglify');
-var filter = require('gulp-filter');
-var pkg = require('./package.json');
+let gulp = require('gulp');
+let sass = require('gulp-sass');
+let browserSync = require('browser-sync').create();
+let header = require('gulp-header');
+let cleanCSS = require('gulp-clean-css');
+let rename = require("gulp-rename");
+let uglify = require('gulp-uglify');
+let filter = require('gulp-filter');
+let pkg = require('./package.json');
 
 // Set the banner content
-var banner = ['/*!\n',
+let banner = ['/*!\n',
   ' * Start Bootstrap - <%= pkg.title %> v<%= pkg.version %> (<%= pkg.homepage %>)\n',
   ' * Copyright 2013-' + (new Date()).getFullYear(), ' <%= pkg.author %>\n',
   ' * Licensed under <%= pkg.license %> (https://github.com/BlackrockDigital/<%= pkg.name %>/blob/master/LICENSE)\n',
@@ -90,7 +90,7 @@ gulp.task('copy', function() {
       '!node_modules/font-awesome/*.json'
     ])
     .pipe(gulp.dest('vendor/font-awesome'))
-})
+});
 
 // Default task
 gulp.task('default', ['sass', 'minify-css', 'minify-js', 'copy']);
@@ -102,7 +102,7 @@ gulp.task('browserSync', function() {
       baseDir: ''
     },
   })
-})
+});
 
 // Dev task with browserSync
 gulp.task('dev', ['browserSync', 'sass', 'minify-css', 'minify-js'], function() {
