@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">-->
     <meta name="description" content="Resume">
     <meta name="author" content="Ivan Zolotukhin">
-    <title>My resume</title>
+    <title>CV</title>
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
@@ -13,21 +13,119 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet"
           type="text/css"/>
     <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great" rel="stylesheet" type="text/css"/>
-    <!--<link href="css/zoloto.css" rel="stylesheet"/>-->
+    <link href="css/zoloto.css" rel="stylesheet"/>
     <link href="css/cv.css" rel="stylesheet"/>
 </head>
 <body>
-<h1 class="text-center pt-5">Here you can view and download my CV.</h1>
 
-<div class="resume d-flex justify-content-center">
-    <div class="block-resume mt-5">
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger cursor-pointer">Here you can view and download my CV</a>
+        <button aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"
+                class="navbar-toggler navbar-toggler-right" data-target="#navbarResponsive" data-toggle="collapse"
+                type="button">Menu
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger cursor-pointer" onclick="generate()">
+                    <i class="fa fa-download"></i>
+                    Download Pdf
+                </a>
+                </li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.html">
+                    <i class="fa fa-home"></i>
+                    Back home
+                </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="resume d-flex justify-content-center pt-200">
+    <div class="block-cv mt-5">
         <div class="header d-flex">
             <div class="my-photo">
                 <img src="img/foto.png" alt="foto">
             </div>
-            <h3 class="text-center pt-5">Zolotukhin Ivan</h3>
+            <h1 class="text-center my-name">Zolotukhin Ivan</h1>
+        </div>
+        <div class="container">
+            <div class="row pt-4">
+                <!--*******Left******-->
+                <div class="col-4">
+                    <div class="col-12">
+                        <p class="name">Objective</p>
+                        <p>Front-end Developer</p>
+                    </div>
+                    <div class="col-12 pt-200">
+                        <p class="name">Skills</p>
+                        <p>-Good knowledge: HTML5
+                            & CSS3 , Bootstrap, Git
+                            JsPdf, Adaptive and cross
+                            browser Email.
+                            -Above average knowledge:
+                            Angular 5+, JavaScript</p>
+                    </div>
+                </div>
+                <!--*******Right*****-->
+                <div class="col-8">
+                    <div class="col-12">
+                        <p class="name">Experience</p>
+                        <p>From 10.2017 till present time (1 year and 2 monts)
+                            Simplepin.inc,
+                            on work sites, adaptation for mobile devices and browsers.
+                            Pre-Authorized Debit and Multilingual support.) Fix bugs
+                            Billing, Invoicing, Insurance, Credit Card payment,
+                            Kharkov (Platform to Payment processing,<br>
+                            12.2016 to 10.2017 (10 months) Freelance, Kharkiv (It)
+                            Layout of sites on PSD</p>
+                    </div>
+                    <div class="col-12 pt-100">
+                        <p class="name">Education</p>
+                        <p>-Business
+                            JavaScript, ReactJS.
+                            it-school: 10.01.17-01.08.17 Html-Css,
+                            College: 1998-2000-Spalah
+                            -Spalah it-scholl: 11.01.18 Angular</p>
+                    </div>
+                    <div class="col-12 pt-5">
+                        <p class="name">INFORMATION & ACHIEVEMENTS</p>
+                        <p>I like my business and development in this area, at the
+                            moment I focus on Angular.
+                            You can look at my projects, they were part of the
+                            development team, still in the process:
+                            <a href="https://simplepin.com">https://simplepin.com,</a>
+                            <a href="https://vstudy.velociteach.com">https://vstudy.velociteach.com</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-cv">
+
         </div>
     </div>
 </div>
+
+<footer>
+    <div class="footer text-right p-5">
+
+    </div>
+</footer>
+
+
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/popper/popper.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.min.js"></script><!-- Plugin JavaScript -->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script><!-- Contact Form JavaScript -->
+<script src="js/jqBootstrapValidation.js"></script>
+<script src="js/contact_me.js"></script><!-- Custom scripts for this template -->
+<script src="js/freelancer.min.js"></script>
+<script src="js/download.js"></script>
+<script src="https://unpkg.com/jspdf@latest/dist/jspdf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.2/jspdf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/2.3.2/jspdf.plugin.autotable.js"></script>
 </body>
 </html>
