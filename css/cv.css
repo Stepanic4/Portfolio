@@ -80,6 +80,10 @@ body {
     font-size: 1.2em;
 }
 
+.container p {
+    line-height: 1.3em;
+}
+
 .block-cv .footer-cv {
     display: block;
     position: absolute;
