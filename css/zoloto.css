@@ -217,6 +217,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#917db9e8', e
 header.masthead {
   padding-top: 100px;
   padding-bottom: 50px;
+  height: 100vh;
   text-align: center;
   color: white;
   background: -moz-linear-gradient(45deg, rgba(30,87,153,1) 0%, rgba(125,185,232,0) 100%); /* FF3.6-15 */
