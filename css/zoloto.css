@@ -575,7 +575,7 @@ footer {
 
 @media (max-width: 576px) {
   .pulse {
-    top: 95%;
+    top: 90%;
     padding: 8px 19px;
     font-size: 0.7rem;
   }

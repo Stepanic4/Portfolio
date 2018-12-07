@@ -10,16 +10,16 @@ let pkg = require('./package.json');
 
 // Set the banner content
 let banner = ['/*!\n',
-  ' * Start Bootstrap - <%= pkg.title %> v<%= pkg.version %> (<%= pkg.homepage %>)\n',
-  ' * Copyright 2013-' + (new Date()).getFullYear(), ' <%= pkg.author %>\n',
-  ' * Licensed under <%= pkg.license %> (https://github.com/BlackrockDigital/<%= pkg.name %>/blob/master/LICENSE)\n',
+  ' * Bootstrap - <%= pkg.title %> v<%= pkg.version %> (<%= pkg.homepage %>)\n',
+  ' * Copyright 2018-' + (new Date()).getFullYear(), ' <%= pkg.author %>\n',
+  ' * <%= pkg.license %> (https://github.com/Stepanic4<%= pkg.name %>)\n',
   ' */\n',
   ''
 ].join('');
 
 // Compiles SCSS files from /scss into /css
 gulp.task('sass', function() {
-  return gulp.src('scss/freelancer.scss')
+  return gulp.src('scss/zoloto.scss')
     .pipe(sass())
     .pipe(header(banner, {
       pkg: pkg
@@ -47,7 +47,7 @@ gulp.task('minify-css', ['sass'], function() {
 
 // Minify custom JS
 gulp.task('minify-js', function() {
-  return gulp.src('js/freelancer.js')
+  return gulp.src('js/zoloto.js')
     .pipe(uglify())
     .pipe(header(banner, {
       pkg: pkg
