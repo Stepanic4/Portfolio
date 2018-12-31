@@ -3,8 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="b2907839-d8e6-4165-b96e-f1c1a30d1f97" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/download.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/download.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My Portfolio.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/zoloto.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/zoloto.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail/contact_me.php" beforeDir="false" afterPath="$PROJECT_DIR$/mail/contact_me.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_bootstrap-overrides.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_contact.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_masthead.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_portfolio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/zoloto.scss" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +29,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="61" lean-forward="true" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+            <state relative-caret-position="264">
+              <caret line="441" column="32" lean-forward="true" selection-start-line="441" selection-start-column="32" selection-end-line="441" selection-end-column="32" />
+              <folding>
+                <element signature="e#17726#17732#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -27,25 +41,17 @@
       <file leaf-file-name="resume.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="74" column="67" selection-start-line="74" selection-start-column="67" selection-end-line="74" selection-end-column="67" />
+            <state relative-caret-position="682">
+              <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="download.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/download.js">
+      <file leaf-file-name="zoloto.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/zoloto.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="100" column="34" lean-forward="true" selection-start-line="100" selection-start-column="34" selection-end-line="100" selection-end-column="34" />
-              <folding>
-                <marker date="1544444739584" expanded="false" signature="135:125649" ph="..." />
-                <marker date="1544444739584" expanded="false" signature="125670:204940" ph="..." />
-                <marker date="1544444739584" expanded="false" signature="209297:279047" ph="..." />
-                <marker date="1544444739584" expanded="false" signature="279196:327866" ph="..." />
-                <marker date="1544444739584" expanded="false" signature="327886:384036" ph="..." />
-                <marker date="1544444739584" expanded="false" signature="384056:442610" ph="..." />
-              </folding>
+            <state relative-caret-position="132">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -68,6 +74,8 @@
       <find>freelancer</find>
       <find>отсутствует</find>
       <find>rx</find>
+      <find>help-block</find>
+      <find>floating-label-form-grou</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -77,11 +85,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/cv.css" />
-        <option value="$PROJECT_DIR$/css/zoloto.css" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/css/zoloto.min.css" />
-        <option value="$PROJECT_DIR$/resume.html" />
         <option value="$PROJECT_DIR$/js/download.js" />
+        <option value="$PROJECT_DIR$/resume.html" />
+        <option value="$PROJECT_DIR$/mail/contact_me.php" />
+        <option value="$PROJECT_DIR$/css/zoloto.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -110,12 +119,27 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyBlog" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -198,11 +222,15 @@
       <workItem from="1544282204268" duration="127000" />
       <workItem from="1544298793042" duration="614000" />
       <workItem from="1544444351324" duration="614000" />
+      <workItem from="1545392210617" duration="1732000" />
+      <workItem from="1545842508196" duration="1849000" />
+      <workItem from="1546245671172" duration="346000" />
+      <workItem from="1546249772541" duration="2593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69648000" />
+    <option name="totallyTimeSpent" value="76168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -221,7 +249,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32996634" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25349087" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26100966" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -244,13 +272,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25432">
-          <caret line="1156" selection-start-line="1156" selection-end-line="1156" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/zoloto.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4114">
@@ -276,14 +297,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8272">
           <caret line="103" column="52" selection-start-line="103" selection-start-column="52" selection-end-line="103" selection-end-column="52" />
-          <folding>
-            <marker date="1544444739584" expanded="false" signature="135:125649" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="125670:204940" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="209297:279047" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="279196:327866" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="327886:384036" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="384056:442610" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -326,14 +339,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2332">
           <caret line="103" column="52" selection-start-line="103" selection-start-column="52" selection-end-line="103" selection-end-column="52" />
-          <folding>
-            <marker date="1544444739584" expanded="false" signature="135:125649" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="125670:204940" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="209297:279047" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="279196:327866" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="327886:384036" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="384056:442610" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -369,14 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8272">
           <caret line="103" column="52" lean-forward="true" selection-start-line="103" selection-start-column="52" selection-end-line="103" selection-end-column="52" />
-          <folding>
-            <marker date="1544444739584" expanded="false" signature="135:125649" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="125670:204940" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="209297:279047" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="279196:327866" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="327886:384036" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="384056:442610" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -405,14 +402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4818">
           <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <marker date="1544444739584" expanded="false" signature="135:125649" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="125670:204940" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="209297:279047" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="279196:327866" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="327886:384036" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="384056:442610" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -448,14 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6182">
           <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
-          <folding>
-            <marker date="1544444739584" expanded="false" signature="135:125649" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="125670:204940" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="209297:279047" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="279196:327866" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="327886:384036" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="384056:442610" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -491,21 +472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6182">
           <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
-          <folding>
-            <marker date="1544444739584" expanded="false" signature="135:125649" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="125670:204940" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="209297:279047" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="279196:327866" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="327886:384036" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="384056:442610" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/zoloto.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="577" column="11" selection-start-line="577" selection-start-column="11" selection-end-line="577" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -516,20 +482,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/zoloto.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_portfolio.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1782" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_navbar.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/zoloto.scss" />
+    <entry file="file://$PROJECT_DIR$/scss/_variables.scss" />
+    <entry file="file://$PROJECT_DIR$/scss/_portfolio.scss" />
+    <entry file="file://$PROJECT_DIR$/scss/_navbar.scss" />
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1354">
@@ -537,20 +493,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_bootstrap-overrides.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_mixins.scss" />
+    <entry file="file://$PROJECT_DIR$/scss/_bootstrap-overrides.scss" />
     <entry file="file://$PROJECT_DIR$/css/cv.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="659">
@@ -596,32 +540,41 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/HTML-JavaScript.html.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume.html">
+    <entry file="file://$PROJECT_DIR$/js/download.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="74" column="67" selection-start-line="74" selection-start-column="67" selection-end-line="74" selection-end-column="67" />
+        <state relative-caret-position="2244">
+          <caret line="100" column="34" selection-start-line="100" selection-start-column="34" selection-end-line="100" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/download.js">
+    <entry file="file://$PROJECT_DIR$/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="100" column="34" lean-forward="true" selection-start-line="100" selection-start-column="34" selection-end-line="100" selection-end-column="34" />
-          <folding>
-            <marker date="1544444739584" expanded="false" signature="135:125649" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="125670:204940" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="209297:279047" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="279196:327866" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="327886:384036" ph="..." />
-            <marker date="1544444739584" expanded="false" signature="384056:442610" ph="..." />
-          </folding>
+        <state relative-caret-position="682">
+          <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/zoloto.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="61" lean-forward="true" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+        <state relative-caret-position="264">
+          <caret line="441" column="32" lean-forward="true" selection-start-line="441" selection-start-column="32" selection-end-line="441" selection-end-column="32" />
+          <folding>
+            <element signature="e#17726#17732#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
