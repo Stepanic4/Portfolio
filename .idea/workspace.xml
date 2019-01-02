@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2907839-d8e6-4165-b96e-f1c1a30d1f97" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/zoloto.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/zoloto.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="b2907839-d8e6-4165-b96e-f1c1a30d1f97" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/css/zoloto.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="373">
-              <caret line="544" column="43" lean-forward="true" selection-start-line="544" selection-start-column="43" selection-end-line="544" selection-end-column="43" />
+              <caret line="595" column="1" selection-start-line="595" selection-start-column="1" selection-end-line="595" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -218,16 +214,15 @@
       <workItem from="1545842508196" duration="1849000" />
       <workItem from="1546245671172" duration="346000" />
       <workItem from="1546249772541" duration="3241000" />
-      <workItem from="1546449013077" duration="9841000" />
+      <workItem from="1546449013077" duration="10109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86657000" />
+    <option name="totallyTimeSpent" value="86925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -620,7 +615,7 @@
     <entry file="file://$PROJECT_DIR$/css/zoloto.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
-          <caret line="544" column="43" lean-forward="true" selection-start-line="544" selection-start-column="43" selection-end-line="544" selection-end-column="43" />
+          <caret line="595" column="1" selection-start-line="595" selection-start-column="1" selection-end-line="595" selection-end-column="1" />
         </state>
       </provider>
     </entry>
