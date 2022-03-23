@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b2907839-d8e6-4165-b96e-f1c1a30d1f97" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/zoloto.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/zoloto.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,14 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="439" column="49" lean-forward="true" selection-start-line="439" selection-start-column="49" selection-end-line="439" selection-end-column="49" />
-              <folding>
-                <element signature="e#22520#22526#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="286">
+              <caret line="448" column="42" lean-forward="true" selection-start-line="448" selection-start-column="42" selection-end-line="448" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -35,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zoloto.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="zoloto.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/zoloto.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="9" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="9" />
+            <state relative-caret-position="572">
+              <caret line="77" column="20" lean-forward="true" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -90,8 +87,8 @@
         <option value="$PROJECT_DIR$/js/download.js" />
         <option value="$PROJECT_DIR$/resume.html" />
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
-        <option value="$PROJECT_DIR$/css/zoloto.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/zoloto.css" />
       </list>
     </option>
   </component>
@@ -258,16 +255,16 @@
       <workItem from="1547552292014" duration="738000" />
       <workItem from="1548012120577" duration="709000" />
       <workItem from="1612006747183" duration="642000" />
-      <workItem from="1647992368866" duration="3908000" />
+      <workItem from="1647992368866" duration="4870000" />
+      <workItem from="1648074031677" duration="768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98791000" />
+    <option name="totallyTimeSpent" value="100521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -282,7 +279,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32996634" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27228788" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27604726" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -573,20 +570,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="5" column="4926" selection-start-line="5" selection-start-column="4926" selection-end-line="5" selection-end-column="4926" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/zoloto.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -597,13 +584,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="3" column="495" selection-start-line="3" selection-start-column="495" selection-end-line="3" selection-end-column="495" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="439" column="49" lean-forward="true" selection-start-line="439" selection-start-column="49" selection-end-line="439" selection-end-column="49" />
-          <folding>
-            <element signature="e#22520#22526#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="286">
+          <caret line="448" column="42" lean-forward="true" selection-start-line="448" selection-start-column="42" selection-end-line="448" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/zoloto.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="77" column="20" lean-forward="true" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
         </state>
       </provider>
     </entry>

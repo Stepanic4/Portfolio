@@ -67,7 +67,7 @@ h6 {
 
 hr.star-light,
 hr.star-primary {
-  max-width: 300px;
+  /*max-width: 300px;*/
   margin: 25px auto 30px;
   padding: 0;
   text-align: center;
@@ -78,7 +78,7 @@ hr.star-primary {
 hr.star-light:after,
 hr.star-primary:after {
   font-family: FontAwesome;
-  font-size: 2em;
+  font-size: 1.5em;
   position: relative;
   top: -.8em;
   display: inline-block;
@@ -316,7 +316,7 @@ header.masthead {
     border: 0;
     border-radius: 0; }
     .portfolio-modal .modal-dialog .modal-content h2 {
-      font-size: 3em;
+      font-size: 2.5em;
       margin: 0; }
     .portfolio-modal .modal-dialog .modal-content img {
       margin-bottom: 30px; }
