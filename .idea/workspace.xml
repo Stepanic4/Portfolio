@@ -17,8 +17,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="512" column="69" lean-forward="true" selection-start-line="512" selection-start-column="69" selection-end-line="512" selection-end-column="69" />
+            <state relative-caret-position="175">
+              <caret line="307" column="108" selection-start-line="307" selection-start-column="108" selection-end-line="307" selection-end-column="108" />
+              <folding>
+                <element signature="e#22520#22526#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,6 +75,7 @@
       <find>floating-label-form-grou</find>
       <find>парра</find>
       <find>fa</find>
+      <find>обно</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -103,10 +107,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="34" />
-    <option name="y" value="20" />
-    <option name="width" value="1852" />
-    <option name="height" value="1000" />
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -117,13 +121,23 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
@@ -140,6 +154,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -188,6 +203,7 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Portfolio/index.html" />
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -210,6 +226,11 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -245,12 +266,15 @@
       <workItem from="1547038071511" duration="1393000" />
       <workItem from="1547144316827" duration="1456000" />
       <workItem from="1547208152071" duration="1392000" />
-      <workItem from="1547552292014" duration="380000" />
+      <workItem from="1547552292014" duration="738000" />
+      <workItem from="1548012120577" duration="709000" />
+      <workItem from="1612006747183" duration="642000" />
+      <workItem from="1647992368866" duration="2661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93174000" />
+    <option name="totallyTimeSpent" value="97544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -269,7 +293,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32996634" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26852846" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27228788" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -586,8 +610,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="512" column="69" lean-forward="true" selection-start-line="512" selection-start-column="69" selection-end-line="512" selection-end-column="69" />
+        <state relative-caret-position="175">
+          <caret line="307" column="108" selection-start-line="307" selection-start-column="108" selection-end-line="307" selection-end-column="108" />
+          <folding>
+            <element signature="e#22520#22526#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
