@@ -136,7 +136,7 @@ function generate() {
     doc.textWithLink('', 35, 290, {url:'mailto:zolotukhin.ivan.1@gmail.com'});
 
     doc.addImage(phone, 'png', 85, 280, 10, 10);
-    doc.text('+38 050 938-98-44', 70, 295);
+    doc.text('+420 773-673-387', 70, 295);
 
     doc.addImage(linEd, 'png', 160, 280, 10, 10);
     doc.text('https://www.linkedin.com/in/ivan-zolotukhin', 125, 295);
