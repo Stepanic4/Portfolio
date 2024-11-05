@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b2907839-d8e6-4165-b96e-f1c1a30d1f97" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/zoloto.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/zoloto.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +133,7 @@
       <workItem from="1648085839170" duration="1333000" />
       <workItem from="1676220441616" duration="1328000" />
       <workItem from="1676223443252" duration="808000" />
-      <workItem from="1730799371316" duration="110000" />
+      <workItem from="1730799371316" duration="776000" />
     </task>
     <servers />
   </component>
